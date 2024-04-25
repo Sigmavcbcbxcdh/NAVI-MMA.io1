@@ -1,0 +1,19 @@
+
+main{
+	width: 900px;
+	font-size: 25px;
+	margin:auto ;
+	background-color: url("design-team-game-art-wallpaper-thumb.jpg");		;
+	
+	text-align: center;
+	color: gray;
+
+}
+p{
+	padding: 0 20px;
+	text-align: justify;
+	
+}
+body{
+background-image: url("design-team-game-art-wallpaper-thumb.jpg");	
+}
